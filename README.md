@@ -19,7 +19,7 @@ Feel free to contribute by submitting a pull request! You can find the contribut
 |[Google](https://careers.google.com/jobs/results/112296166315434694/)| Mountain View, CA | Open | Software Engineering Intern
 |[GTS](https://careers-gtsx.icims.com/jobs/1359/job?utm_source=indeed_integration&iis=Job+Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f&mobile=false&width=1220&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240)| New York, NY | Open | Quantitative Researcher - Fall 2023 Internship
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/6483148002/)| New York, NY | Open | Software Engineer Intern (Sepetember to December)
-|[Johnson & Johnson](https://jnjc.taleo.net/careersection/4/jobdetail.ftl?job=2206082625W&lang=en)|Multiple Locations or Remote|Open|Technology Co-op (Many Positions) (Jun-Dec 2023)
+|[Johnson & Johnson](https://app.ripplematch.com/v2/public/job/7d17b916/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo_jj&utm_term=null)|Multiple Locations or Remote|Open|Technology Co-op (Many Positions) (Jun-Dec 2023)
 |[Midmark](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2154?utm_medium=jobshare)|Versailles, OH or Remote|Open|IT Co-Op Software Development
 |[SpaceX](https://boards.greenhouse.io/spacex/jobs/6675035002?gh_jid=6675035002)| Washington. DC, CA, FL, TX, WA| Open | Software Engineering Intern
 |[Tesla](https://www.tesla.com/careers/search/job/vehicle-firmware-embedded-systems-engineering-internship-fall-2023-168106?)|Palo Alto, CA|Open|Back End Position|
