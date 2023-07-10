@@ -3,8 +3,7 @@ This repository is for those looking for Fall 2023 full-time jobs, internships o
 
 We are only focusing on opportunities located in the United States, Canada or remote.
 
-Feel free to contribute by submitting a pull request! You can find the contribution guidelines [here]([https://github.com/mtlogs/fall-2023-opportunities/commit/ec65232e4d0c5d54e884c9afd07d261c6a0a6de0])
-
+Feel free to contribute by submitting a pull request! You can find the contribution guidelines [here](https://github.com/mtlogs/fall-2023-opportunities/commit/ec65232e4d0c5d54e884c9afd07d261c6a0a6de0)!
 | Company Name  |  Location | Role Type | Role |
 |---|---|-------------|-------------|
 |[Amazon (PHD Requirement)](https://www.amazon.jobs/en/jobs/2348364/2023-fall-applied-science-internship-automated-reasoning-and-storage-systems-united-states-student-science-recruiting?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com)| Seattle, WA | Internship | 2023 Fall Applied Science Internship - Automated Reasoning and Storage Systems - United States, Student Science Recruiting
