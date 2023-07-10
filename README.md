@@ -3,7 +3,7 @@ This repository is for those looking for Fall 2023 full-time jobs, internships o
 
 We are only focusing on opportunities located in the United States, Canada or remote.
 
-Feel free to contribute by submitting a pull request! You can find the contribution guidelines here!
+Feel free to contribute by submitting a pull request! You can find the contribution guidelines [here]([url](https://github.com/mtlogs/fall-2023-opportunities/commit/ec65232e4d0c5d54e884c9afd07d261c6a0a6de0))!
 
 | Company Name  |  Location | Role Type | Role |
 |---|---|-------------|-------------|
