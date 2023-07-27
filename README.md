@@ -33,6 +33,7 @@ Feel free to contribute by submitting a pull request! You can find the contribut
 |[Midmark](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2154?utm_medium=jobshare)|Versailles, OH or Remote|Internship|IT Co-Op Software Development
 |[Michelin](https://app.ripplematch.com/v2/public/job/5776a2f6/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null)|Lexington, SC|Full-Time|Industrial Engineer
 |[Oshkosh](https://app.ripplematch.com/v2/public/job/9a68aae0/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo_oshkosh&utm_term=null)|Oshkosh, WI|Full-Time|Mechnical Engineer|
+|[Oshkosh](https://app.ripplematch.com/v2/public/job/94e40b2e/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo&utm_term=null)|Neenah, WI|Full-Time|Electrical Engineer I|
 |[Philips](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pittsburgh/Embedded-Test-Engineer---Intern_496314/?source=Indeed&source=Indeed)| Pittsburgh, PA |Co-Op|Embedded Test Engineer
 |[Rakuten](https://app.ripplematch.com/v2/public/job/66cfcfce/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo_rakuten&utm_term=null)|Boston, MA | Full-Time | Associate Software Engineer |
 |[SpaceX](https://boards.greenhouse.io/spacex/jobs/6675035002?gh_jid=6675035002)| Washington. DC, CA, FL, TX, WA| Internship | Software Engineering Intern
